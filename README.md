@@ -21,3 +21,6 @@ Git es una herramienta genial, aquí se describen algunos comandos básicos
 - touch archivo : crea un archivo
 - ls : lista los  elementos dentro de la carpeta actual
 - ls -la: lista los elementos dentro de la carpeta actual de manera detallada con la opcion a, lista los elementos ocultos
+- branch: crea una rama desde la posición original con los archivos desde el master.
+- git checkout: se devuelve a una rama anterior o al master, según corresponda.
+- git checkout -b <name>: te lleva a una rama que crea con el nombre especificado
